@@ -40,7 +40,7 @@ public class TestCreatePost {
        // WebElement create_post = driver.findElement(By.xpath(".//div[@class=\"s-header-extra__menu-icon\"]/ul/li[1]"));
       //  create_post.click();
 
-
+driver.quit();
 
 
 
